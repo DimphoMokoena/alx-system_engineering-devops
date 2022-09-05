@@ -1,5 +1,5 @@
 #!bin/bash
 git status
 git add .
-git commit -m "prints 'Hello, World'"
+git commit -m "Getting a hang of I/O Redirection"
 git push

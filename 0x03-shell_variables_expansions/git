@@ -1,0 +1,5 @@
+#!bin/bash
+git status
+git add .
+git commit -m "All about shell expansion, variables and initialization files"
+git push
